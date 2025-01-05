@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 loans:
-  message: "Welcome to FinSafe Bank loans related locals APIs "
+  message: "Welcome to FinSafe Bank loans related local APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@techinsights.com"
